@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning HDL
 - 💞️ I’m looking to collaborate on anybody
-- 📫 How to reach me :1597214976@qq.com
+- 📫 How to reach me INTERNET
 
 <!---
 eddiepipi/eddiepipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
